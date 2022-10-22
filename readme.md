@@ -1,41 +1,17 @@
 # Digital White Board
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Sushavan20/Sushavan20.github.io/commits/master)
 
 ## About the Project
-It is a simple digital white board built using HTML, CSS and Javascript. It has multiple features : 
-
-1. Pen with different sizes & colors
-2. Eraser with different sizes
-3. Undo
-4. Redo
-5. Sticky Notes
-6. Image Upload
-7. Download
-
+It is a simple digital white board built using HTML, CSS and Javascript. 
 
 ## Tech Stack Used
-
-
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### `Click The Link to Check My Webstite` 👉 : [Click Here](https://sushavan20.github.io/Portfolio/)
+### `Click The Link to get a live demo of this Webstite` 👉 : [Click Here](https://sushavan20.github.io/QR-Code/)
 
-## How to use the Project
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start playing with board, explore different features
-
-## Screenshots
-
-<img src="./Screenshots/ss1.png" />
-
-## Live Demo
-
-<img src="./Screenshots/demo.gif" />
+#### Please Give a ❣ if you Like
