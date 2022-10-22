@@ -113,9 +113,6 @@ body {
   display: none;
 }
 
-/* .pen-size {
-  }
-   */
 .pen-size input {
   width: 100%;
 }
@@ -154,5 +151,29 @@ body {
 
 .red {
   background: red;
+}
+
+footer {
+  background-color: var(--black);
+  color: var(--white);
+  font-size: 14px;
+  bottom: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+footer p {
+  margin: 10px 0;
+}
+
+footer a {
+  color: var(--gray-clr);
+  text-decoration: none;
+}
+
+footer i {
+  color: red;
 }
 
