@@ -1,4 +1,4 @@
-# Digital White Board
+# Let's Draw Web App
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Sushavan20/Sushavan20.github.io/commits/master)
 
 ## About the Project
